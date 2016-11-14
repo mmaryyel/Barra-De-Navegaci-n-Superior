@@ -1,0 +1,39 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+body {
+  background-color: white;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+nav li{
+  float: left;
+  
+  background-color: gray;
+}
+nav li a{
+  text-align: center;
+  width: 182px;
+  padding: 5px;
+  display: block;
+  color: white; 
+  font-size: 15px;
+  text-decoration: none;
+}
